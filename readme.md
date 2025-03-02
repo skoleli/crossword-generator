@@ -1,6 +1,8 @@
 # Crossword Generator
 
-    Simple Crossword Generator with fixed set of words: (seat, east, set, tea, eat).
+Simple Crossword Generator with fixed set of words: 
+
+```(seat, east, set, tea, eat)```
 
 ## Instructions
 
